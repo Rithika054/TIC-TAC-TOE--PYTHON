@@ -1,4 +1,4 @@
-# TIC-TAC-TOE--PYTHON
+
 
 <!-- Our objective is to build a two-player Tic Tac Toe game where players can take turns marking 'X' or 'O' on a 3x3 grid.
 The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
