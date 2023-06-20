@@ -1,6 +1,5 @@
-
-
-<!-- Our objective is to build a two-player Tic Tac Toe game where players can take turns marking 'X' or 'O' on a 3x3 grid.
+#TIC TAC TOE
+ Our objective is to build a two-player Tic Tac Toe game where players can take turns marking 'X' or 'O' on a 3x3 grid.
 The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
 We'll be using Python to implement the game logic and provide a user-friendly interface.
 Let's understand the flow of the game:
@@ -33,4 +32,4 @@ Write a function to check if the current player has won the game.
 Check all possible winning combinations: rows, columns, and diagonals.
 Main game loop:
 
-Combine the above steps in a loop that continues until a player wins or the game ends in a draw. -->
+Combine the above steps in a loop that continues until a player wins or the game ends in a draw.
